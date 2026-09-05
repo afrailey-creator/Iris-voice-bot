@@ -67,7 +67,7 @@ Named after Iris, the Greek messenger goddess — the whole point of this device
 11. (Future idea, not in v1) Calendar/reminder feature with time parsing and text-to-speech
 
 ## Status Log
-- [Date] — Project scoped, conversation flow and data design finalized. Hardware not yet ordered.
+- September 5th — Project scoped, conversation flow and data design finalized. Hardware not yet ordered.
 
 ---
 *This is a personal/independent project, built outside of coursework.*
